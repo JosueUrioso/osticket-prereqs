@@ -32,6 +32,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Change File Permissions
 
 <h2>Installation Steps</h2>
+<img width="941" alt="image" src="https://github.com/user-attachments/assets/1db5ad01-0256-4d72-af6d-9b4c6eff48e8" />
 
 <p>
 <img src="https://i.imgur.com/8o1dDBJ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
